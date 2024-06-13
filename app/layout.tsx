@@ -21,7 +21,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <title>Optimism Agent</title>
+        <title>Optimism Advocate</title>
       </head>
       <body
         className={cn(

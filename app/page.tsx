@@ -156,7 +156,7 @@ Knowledge Base:
             <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-2 xl:grid-cols-4">
               <Card className="sm:col-span-2">
                 <CardHeader className="pb-3">
-                  <CardTitle>Optimism Knowledge Base</CardTitle>
+                  <CardTitle>Optimism Archive</CardTitle>
                   <CardDescription className="max-w-lg text-balance leading-relaxed">
                     Automatically gather data and insights related to Optimism,
                     and deliver summarized information to you.
@@ -262,7 +262,7 @@ Knowledge Base:
                         alt="GPT"
                       />
                     </Avatar>
-                    Optimism Agent
+                    Optimism Advocate
                   </CardTitle>
                   <CardDescription>
                     This summary is automatically compiled by Optimism AI and is

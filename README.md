@@ -1,31 +1,22 @@
-## Project Name
+# Optimism Advocate
 
-Optimism Agent
+## Introduction to the Project
 
-## Project Introduction
+In the dynamic and fast-paced blockchain sector, data insight and analysis have become essential. Optimism Advocate is designed to meet this need, providing a powerful analytical tool for developers, investors, and researchers within the Optimism ecosystem.
 
-- In today's rapidly evolving blockchain domain, data insight and analysis have become crucial. Optimism Agent has emerged in this context, aiming to provide a powerful analytical tool for developers, investors, and researchers in the Optimism ecosystem.
-- By leveraging automation technology, Optimism Agent integrates key data from Footprint Analytics and Dune, offering users a comprehensive and convenient data knowledge base.
-- Optimism Agent is not just a data aggregation tool; it also features intelligent analysis capabilities. It can automatically summarize dashboards in the knowledge base, providing in-depth data insights to help users quickly understand the latest developments and trends in the Optimism ecosystem.
+Utilizing advanced automation technology, Optimism Advocate integrates crucial data from Footprint Analytics and Dune, offering users a thorough and convenient data knowledge base.
 
-## Project Features
+Optimism Advocate is more than a data aggregation tool; it features intelligent analysis capabilities that automatically summarize dashboards in the knowledge base. This provides users with detailed data insights, helping them quickly grasp the latest trends and developments in the Optimism ecosystem.
 
-- **Automatic Data Retrieval**: Optimism Agent can automatically fetch dashboards related to Optimism from Footprint Analytics and Dune, ensuring users always have access to the latest and most comprehensive data.
-- **Intelligent Data Analysis**: By summarizing dashboards in the knowledge base automatically, Optimism Agent provides key data insights, helping users gain a deep understanding of market dynamics.
-- **Light/Dark Mode Switching**: To offer a more comfortable user experience, Optimism Agent supports switching between light and dark modes, catering to different users' visual preferences.
-- **Mobile Compatibility**: Complete mobile compatibility ensures users enjoy a smooth, consistent experience across different devices, accessing the latest data on the Optimism ecosystem anytime, anywhere.
+## Key Features of the Project
 
-## Demo
+- **Automated Data Retrieval**: Optimism Advocate can automatically fetch dashboards related to Optimism from Footprint Analytics and Dune, ensuring users have access to the latest and most comprehensive data.
+- **Smart Data Analysis**: By automatically summarizing dashboards in the knowledge base, Optimism Advocate provides essential data insights, aiding users in understanding market dynamics deeply.
+- **Switchable Light/Dark Mode**: To enhance the user experience, Optimism Advocate supports switching between light and dark modes, catering to various visual preferences.
+- **Mobile-Friendly Design**: Complete mobile compatibility ensures users enjoy a smooth, consistent experience across different devices, enabling access to the latest data on the Optimism ecosystem anytime, anywhere.
 
-- [Demo Video](https://vimeo.com/934467258?share=copy)
-- [Demo URL](https://op-agent.vercel.app/)
-- [Code Repository](https://github.com/miachuang911/op-agent)
 
-## Tech Stack
 
-- [Next.js](https://nextjs.org/)
-- [shadcn/ui](https://ui.shadcn.com/)
-- [Vercel](https://vercel.com/)
 
 ## Setup
 
